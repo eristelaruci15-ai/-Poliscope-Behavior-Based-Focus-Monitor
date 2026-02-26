@@ -1,6 +1,6 @@
 # -Poliscope-Behavior-Based-Focus-Monitor
 Poliscope is a real-time AI self-study assistant built using computer vision. The system monitors user focus through face detection, head pose estimation, and gaze tracking.
-
+ 
 It helps students improve concentration by detecting whether they are engaged, distracted, or absent during study sessions.
 
 Features
