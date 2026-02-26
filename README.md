@@ -4,25 +4,29 @@ Poliscope is a real-time AI self-study assistant built using computer vision. Th
 It helps students improve concentration by detecting whether they are engaged, distracted, or absent during study sessions.
 
 Features
-Real-time face detection using webcam
-Head pose tracking
-Eye position and gaze estimation
-Personalized calibration system
-Behavior classification (Engaged / Distracted / Absent)
-Visual assistant feedback
-Modular and structured code design
+-Real-time face detection using webcam
+-Head pose tracking
+-Eye position and gaze estimation
+-Personalized calibration system
+-Behavior classification (Engaged / Distracted / Absent)
+-Visual assistant feedback
+-Modular and structured code design
+
 How It Works
+
 The webcam captures live video input
 MediaPipe detects facial landmarks
 Head and eye positions are calculated
 The system compares current position to a calibrated baseline
 Focus state is classified in real time
+
 Technologies Used
 Python
 OpenCV
 MediaPipe
 NumPy
 Real-time video processing
+
 Installation
 Create a virtual environment
 python -m venv venv
